@@ -1,4 +1,4 @@
-# Building a SOC w/ Honeynet within Microsoft Azure 
+# Building a SOC with Honeynet within Microsoft Azure 
 
 
 ## Introduction
